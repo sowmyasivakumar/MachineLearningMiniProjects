@@ -1,0 +1,2495 @@
+'	O
+''	O
+American	O
+*OOV*	O
+''	O
+'	O
+
+Avec	O
+le	O
+Club	O
+Nacional	O
+,	O
+il	O
+remporte	O
+un	O
+championnat	O
+*OOV*	O
+.	O
+
+'	O
+''	O
+Lars	O
+van	I-PER
+der	I-PER
+Haar	O
+''	O
+'	O
+
+*OOV*	O
+of	I-ORG
+Baker	I-ORG
+Street	I-ORG
+
+'	O
+''	O
+*OOV*	O
+HK	O
+''	O
+'	O
+
+La	O
+*OOV*	O
+se	O
+passe	O
+sous	O
+Louis	B-PER
+*OOV*	O
+.	O
+
+Cameron	O
+van	I-PER
+der	I-PER
+*OOV*	O
+(	O
+)	O
+
+'	O
+''	O
+*OOV*	O
+96	O
+''	O
+'	O
+
+'	O
+''	O
+Olivier	O
+Marceau	O
+''	O
+'	O
+
+Broncos	O
+de	I-ORG
+Swift	I-ORG
+Current	I-ORG
+(	O
+LHOu	O
+)	O
+
+Ellis	O
+Park	I-ORG
+Stadium	I-ORG
+,	O
+Johannesburg	O
+
+'	O
+''	O
+Lionel	O
+Messi	O
+''	O
+'	O
+
+*OOV*	O
+se	O
+*OOV*	O
+*OOV*	O
+la	O
+Chambre	I-LOC
+des	I-LOC
+communes	I-LOC
+du	I-LOC
+Canada	O
+.	O
+
+Stade	B-ORG
+*OOV*	O
+(	O
+Chlef	O
+)	O
+
+Adam	O
+*OOV*	O
+min	O
+46	O
+s	O
+76	O
+
+REDIRECTION	O
+*OOV*	O
+du	I-ORG
+Mozambique	I-ORG
+
+*OOV*	O
+of	I-ORG
+the	I-ORG
+Free	I-ORG
+?	I-ORG
+
+*OOV*	O
+*OOV*	O
+*OOV*	O
+''	O
+*OOV*	O
+(	O
+19	O
+/	O
+04	O
+-	O
+07	O
+/	O
+11	O
+)	O
+
+Ralf	O
+Schumacher	O
+'	O
+''	O
+62	O
+''	O
+'	O
+(	O
+*OOV*	O
+)	O
+
+Michael	B-PER
+Johnson	I-PER
+43	O
+s	O
+65	O
+
+Mark	B-PER
+Stuart	O
+(	O
+D	O
+)	O
+
+Ligue	B-ORG
+*OOV*	I-ORG
+du	I-ORG
+Kosovo	I-ORG
+(	O
+*OOV*	O
+)	O
+
+Il	O
+quitte	O
+donc	O
+la	O
+France	B-LOC
+pour	O
+jouer	O
+en	O
+Angleterre	O
+,	O
+un	O
+*OOV*	O
+pour	O
+lui	O
+selon	O
+la	O
+BBC	O
+.	O
+
+'	O
+''	O
+Gwen	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+Portugal	O
+''	O
+'	O
+
+Il	O
+est	O
+alors	O
+*OOV*	O
+comme	O
+l'un	O
+des	O
+joueurs	O
+les	O
+plus	O
+*OOV*	O
+dans	O
+la	O
+Ligue	I-ORG
+majeure	I-ORG
+de	I-ORG
+baseball	O
+.	O
+
+Japan	O
+Post	I-ORG
+Bank	O
+''	O
+,	O
+pour	O
+les	O
+services	O
+*OOV*	O
+,	O
+
+Indians	O
+de	I-ORG
+Cleveland	I-ORG
+
+''	O
+Go	O
+Let	I-ORG
+It	I-ORG
+Out	O
+''	O
+,	O
+*OOV*	O
+(	O
+1	O
+)	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+*OOV*	I-LOC
+
+REDIRECTION	O
+*OOV*	O
+voyage	O
+de	I-ORG
+Cook	I-ORG
+
+Commission	O
+*OOV*	O
+et	O
+sociale	O
+pour	O
+l'Asie	O
+et	O
+le	O
+Pacifique	O
+(	O
+*OOV*	O
+)	O
+
+''	O
+,	O
+par	O
+le	O
+*OOV*	O
+national	I-ORG
+d'histoire	I-ORG
+naturelle	I-ORG
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+Ronnie	O
+Peterson	O
+''	O
+'	O
+
+'	O
+''	O
+Real	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+Dinamo	O
+Zagreb	O
+''	O
+'*	O
+
+Billy	O
+Martin	I-ORG
+(	O
+tennis	O
+)	O
+
+Ray	O
+*OOV*	I-ORG
+Are	I-ORG
+Not	I-ORG
+Just	I-ORG
+the	I-ORG
+*OOV*	O
+''	O
+
+*OOV*	O
+aux	O
+*OOV*	O
+entre	O
+le	O
+et	O
+le	O
+.	O
+
+'	O
+''	O
+Honda	O
+''	O
+'	O
+
+'	O
+''	O
+Scuderia	O
+Ferrari	O
+''	O
+'	O
+
+'	O
+''	O
+Lindsey	O
+Vonn	O
+''	O
+'	O
+
+===	O
+Territoire	O
+du	I-LOC
+Nord-Ouest	O
+===	O
+
+====	O
+Coupe	O
+de	I-ORG
+France	I-ORG
+====	O
+
+Laboratoire	O
+national	I-ORG
+de	I-ORG
+Los	I-ORG
+*OOV*	I-ORG
+
+Stade	B-ORG
+Suphachalasai	O
+,	O
+Bangkok	O
+,	O
+*OOV*	O
+
+Jan	O
+*OOV*	O
+(	O
+NED	O
+)	O
+
+REDIRECTION	O
+Heart	O
+(	O
+album	I-ORG
+de	I-ORG
+Heart	I-ORG
+)	I-ORG
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+*OOV*	I-LOC
+
+*OOV*	O
+le	O
+*OOV*	O
+de	I-ORG
+Gaulle	O
+,	O
+il	O
+*OOV*	O
+d'abord	O
+au	O
+groupe	O
+Antoine	O
+*OOV*	O
+(	O
+Centre	O
+national	I-ORG
+des	I-ORG
+*OOV*	O
+et	O
+paysans	O
+)	O
+.	O
+
+Cette	O
+statue	O
+a	O
+*OOV*	O
+*OOV*	O
+pendant	O
+Occupation	O
+.	O
+
+King	O
+George	I-ORG
+VI	I-ORG
+and	I-ORG
+Queen	I-ORG
+Elizabeth	I-ORG
+Diamond	I-ORG
+*OOV*	I-ORG
+
+;	O
+Ligue	I-ORG
+nationale	I-ORG
+de	I-ORG
+hockey	I-ORG
+
+Michele	O
+Alboreto	I-PER
+/	O
+Tom	O
+*OOV*	O
+/	O
+Stefan	O
+Johansson	I-PER
+
+'	O
+''	O
+-	O
+Antoine	O
+de	I-PER
+*OOV*	O
+(	O
+*OOV*	O
+)	O
+
+07	O
+''	O
+(	O
+7	O
+)	O
+''	O
+*OOV*	O
+*OOV*	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+''	O
+est	O
+un	O
+*OOV*	O
+*OOV*	O
+aux	O
+enfants	O
+dont	O
+Dick	O
+*OOV*	O
+est	O
+*OOV*	O
+(	O
+*OOV*	O
+et	O
+chansons	O
+)	O
+et	O
+*OOV*	O
+.	O
+
+'	O
+''	O
+Masaki	O
+Tokudome	O
+''	O
+'	O
+
+'	O
+''	O
+Mansour	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+Stefan	O
+*OOV*	O
+''	O
+'	O
+20px20px	O
+
+'	O
+''	O
+'	O
+(	O
+avec	O
+Sebastian	O
+*OOV*	O
+)	O
+
+*OOV*	O
+Horace	O
+,	O
+*OOV*	O
+''	O
+,	O
+2	O
+,	O
+1	O
+,	O
+156	O
+.	O
+
+Elle	O
+est	O
+originaire	O
+*OOV*	O
+centrale	O
+depuis	O
+le	O
+Mexique	O
+jusqu'au	O
+Costa	O
+Rica	O
+.	O
+
+'	O
+''	O
+Magdalena	O
+Forsberg	O
+''	O
+'	O
+
+Les	O
+anglophones	O
+*OOV*	O
+des	O
+quotidiens	O
+Telegraph-Journal	O
+''	O
+,	O
+*OOV*	O
+*OOV*	O
+Saint-Jean	O
+,	O
+et	O
+The	O
+Daily	I-ORG
+Gleaner	O
+''	O
+,	O
+*OOV*	O
+*OOV*	O
+Fredericton	O
+.	O
+
+*OOV*	O
+''	O
+(	O
+km	O
+47	O
+)	O
+''	O
+
+REDIRECTION	O
+Bourgogne	O
+(	O
+*OOV*	O
+)	O
+
+Championnat	B-ORG
+*OOV*	I-ORG
+de	I-ORG
+football	I-ORG
+
+John	B-PER
+Stockton	O
+(	O
+3	O
+)	O
+
+Conrad	O
+Ier	I-ORG
+de	I-ORG
+*OOV*	O
+
+Gare	O
+de	I-ORG
+Fontaine	I-ORG
+*OOV*	I-ORG
+
+Plus	O
+tard	O
+,	O
+ses	O
+*OOV*	O
+le	O
+*OOV*	O
+d'origine	O
+*OOV*	O
+,	O
+ce	O
+qu'il	O
+ne	O
+*OOV*	O
+pas	O
+.	O
+
+Antoine	O
+Claire	I-PER
+*OOV*	O
+(	O
+*OOV*	O
+)	O
+,	O
+;	O
+
+'	O
+''	O
+Ligne	O
+*OOV*	O
+''	O
+'	O
+
+La	O
+*OOV*	O
+est	O
+*OOV*	O
+vers	O
+et	O
+Hugh	O
+*OOV*	O
+va	O
+au	O
+.	O
+
+REDIRECTION	O
+Les	O
+Quatre	O
+Fantastiques	I-ORG
+(	O
+film	O
+,	O
+2015	O
+)	O
+
+We	O
+Are	I-ORG
+the	I-ORG
+Champions	O
+''	O
+
+'	O
+''	O
+Walt	O
+*OOV*	O
+''	O
+'	O
+
+*OOV*	O
+Alec	O
+Baldwin	O
+s'y	O
+charge	O
+des	O
+*OOV*	O
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+*OOV*	I-LOC
+
+'	O
+''	O
+*OOV*	O
+du	I-LOC
+Nord	I-LOC
+
+'	O
+''	O
+Mavericks	O
+de	I-ORG
+Dallas	O
+''	O
+'	O
+
+'	O
+''	O
+Simone	O
+*OOV*	I-PER
+Fabio	O
+*OOV*	O
+''	O
+'	O
+
+Richard	O
+*OOV*	O
+(	O
+19	O
+?	O
+
+|	O
+Parti	B-ORG
+des	I-ORG
+socialistes	I-ORG
+de	I-ORG
+Catalogne	I-ORG
+
+en	O
+France	B-LOC
+(	O
+*OOV*	O
+)	O
+,	O
+
+Liste	B-LOC
+23	O
+UDC	O
+*OOV*	O
+central	I-ORG
+
+Coupe	O
+de	I-ORG
+France	I-ORG
+de	I-ORG
+basket-ball	I-ORG
+
+Roger	O
+*OOV*	O
+(	O
+Stade	O
+de	I-ORG
+Reims	I-ORG
+)	I-ORG
+
+Tournoi	O
+de	I-ORG
+tennis	I-ORG
+de	I-ORG
+Luxembourg	I-ORG
+
+University	O
+College	I-ORG
+de	I-ORG
+Londres	I-ORG
+,	O
+
+*OOV*	O
+=	O
+Parti	O
+conservateur	I-ORG
+du	I-ORG
+Canada	I-ORG
+
+Stade	O
+de	I-ORG
+*OOV*	O
+,	O
+Prague	O
+,	O
+*OOV*	O
+
+'	O
+''	O
+*OOV*	O
+Rabat	O
+''	O
+'	O
+
+Keys	O
+(	O
+Floride	O
+)	O
+.	O
+
+Parc	O
+national	I-ORG
+des	I-ORG
+Monts	I-ORG
+*OOV*	I-ORG
+
+les	O
+*OOV*	O
+de	I-ORG
+Chicago	I-ORG
+
+redirection	O
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Vienne	I-LOC
+
+Jim	B-PER
+*OOV*	O
+,	O
+Jeff	O
+Daniels	O
+,	O
+Rob	O
+*OOV*	I-PER
+
+*OOV*	O
+-	O
+48	O
+habitants	O
+.	O
+
+'	O
+''	O
+Jacky	O
+Le	O
+*OOV*	O
+
+Il	O
+sert	O
+sous	O
+Louis	B-PER
+*OOV*	O
+et	O
+Conrad	O
+Ier	I-PER
+de	I-ORG
+*OOV*	O
+.	O
+
+'	O
+''	O
+Copenhague	O
+''	O
+'	O
+
+*OOV*	O
+-	O
+17	O
+000	O
+,	O
+
+'	O
+''	O
+Alex	B-PER
+*OOV*	O
+''	O
+'	O
+
+REDIRECTION	O
+Championnats	O
+du	I-ORG
+monde	I-ORG
+de	I-ORG
+cross-country	I-ORG
+1982	I-ORG
+
+**	O
+Grand	O
+*OOV*	I-ORG
+de	I-ORG
+la	I-ORG
+*OOV*	I-ORG
+2014	I-ORG
+
+Une	O
+autre	O
+franchise	O
+compte	O
+une	O
+seule	O
+*OOV*	O
+,	O
+il	O
+s'agit	O
+des	O
+Giants	I-ORG
+de	I-ORG
+New	I-ORG
+York	I-ORG
+qui	O
+se	O
+sont	O
+*OOV*	O
+chez	O
+les	O
+Cardinals	O
+de	I-ORG
+l'Arizona	I-ORG
+(	O
+*OOV*	O
+)	O
+.	O
+
+Le	O
+,	O
+la	O
+*OOV*	O
+en	O
+faisant	O
+.	O
+
+'	O
+''	O
+Randy	O
+Krummenacher	O
+''	O
+'	O
+
+REDIRECTION	O
+*OOV*	O
+sulla	I-LOC
+Strada	I-LOC
+del	I-LOC
+Vino	I-LOC
+
+REDIRECTION	O
+*OOV*	O
+du	I-LOC
+Japon	I-ORG
+
+*OOV*	O
+''	O
+(	O
+km	O
+125	O
+)	O
+''	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Manche	I-LOC
+
+Durant	O
+sa	O
+*OOV*	O
+,	O
+il	O
+*OOV*	O
+plusieurs	O
+*OOV*	O
+en	O
+Tunisie	O
+et	O
+en	O
+Arabie	O
+saoudite	O
+.	O
+
+Championnat	B-ORG
+du	I-ORG
+Mexique	I-ORG
+de	I-ORG
+football	I-ORG
+
+''	O
+*OOV*	O
+''	O
+(	O
+Ray	O
+Charles	I-PER
+)	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+Dan	O
+*OOV*	O
+''	O
+'	O
+
+Pays-Bas	O
+au	O
+Concours	I-LOC
+Eurovision	I-LOC
+de	I-LOC
+la	I-LOC
+chanson	I-LOC
+
+Louis	O
+de	I-ORG
+France	I-ORG
+(	O
+*OOV*	O
+)	O
+
+REDIRECTION	O
+Stade	O
+du	I-ORG
+*OOV*	I-ORG
+
+*OOV*	O
+''	O
+(	O
+km	O
+29	O
+)	O
+''	O
+
+Washington	O
+*OOV*	O
+*OOV*	O
+Film	I-ORG
+Critics	I-ORG
+Association	I-ORG
+Awards	I-ORG
+
+certains	O
+*OOV*	O
+,	O
+comme	O
+par	O
+exemple	O
+Simon	I-PER
+Claude	I-PER
+Mimouni	O
+,	O
+*OOV*	O
+que	O
+*OOV*	O
+pourrait	O
+le	O
+*OOV*	O
+
+*OOV*	O
+*OOV*	O
+2	O
+min	O
+12	O
+s	O
+62	O
+
+'	O
+''	O
+Jean-Marie	O
+Le	O
+Pen	O
+''	O
+'	O
+
+'	O
+''	O
+Championnat	O
+de	I-ORG
+Russie	O
+''	O
+'	O
+
+Il	O
+s'impose	O
+devant	O
+son	O
+compatriote	O
+Jens	O
+*OOV*	O
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Haute-Corse	I-LOC
+
+Manchester	O
+(	O
+*OOV*	O
+)	O
+
+''	O
+Pro	O
+Wrestling	I-ORG
+*OOV*	O
+''	O
+'	O
+
+Turin	O
+*OOV*	O
+-	O
+``	O
+Long	O
+*OOV*	O
+''	O
+
+Parmi	O
+les	O
+joueurs	O
+non	O
+*OOV*	O
+figurent	O
+James	O
+*OOV*	O
+,	O
+Mike	O
+Phillips	I-PER
+et	O
+Richard	O
+*OOV*	O
+.	O
+
+Lisa	O
+Loeb	O
+-	O
+'	O
+''	O
+'	O
+
+Pays	O
+les	O
+moins	O
+*OOV*	O
+
+Conseil	O
+de	I-ORG
+*OOV*	I-ORG
+des	I-ORG
+Nations	I-ORG
+unies	I-ORG
+
+*OOV*	O
+D	O
+*OOV*	O
+''	O
+(	O
+km	O
+42	O
+)	O
+''	O
+
+Steve	O
+*OOV*	O
+(	O
+Olympique	I-ORG
+de	I-ORG
+Marseille	I-ORG
+)	I-ORG
+
+Championnat	B-ORG
+du	I-ORG
+Guatemala	I-ORG
+de	I-ORG
+football	I-ORG
+
+'	O
+''	O
+Championnat	O
+de	I-ORG
+Croatie	O
+''	O
+'	O
+(	O
+2	O
+)	O
+
+REDIRECTION	O
+*OOV*	O
+de	I-ORG
+l'Ouest	I-ORG
+
+REDIRECTION	O
+*OOV*	O
+de	I-ORG
+*OOV*	I-ORG
+Centre	I-ORG
+(	I-ORG
+Roumanie	I-ORG
+)	I-ORG
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+*OOV*	I-LOC
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+*OOV*	I-LOC
+
+REDIRECTION	O
+*OOV*	O
+de	I-ORG
+la	I-ORG
+Ville	I-ORG
+de	I-ORG
+Skopje	I-ORG
+
+France	B-LOC
+aux	I-ORG
+Jeux	I-ORG
+*OOV*	I-ORG
+
+'	O
+''	O
+Newcastle	O
+Falcons	O
+''	O
+'	O
+
+Bill	O
+Nelson	I-PER
+(	O
+*OOV*	O
+)	O
+
+'	O
+''	O
+Alfred	O
+*OOV*	O
+''	O
+'*	O
+
+'	O
+''	O
+*OOV*	O
+de	I-ORG
+New	I-ORG
+York	O
+''	O
+'	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+Gregory	O
+*OOV*	O
+,	O
+Laurence	O
+Olivier	I-PER
+James	I-PER
+Mason	I-PER
+
+'	O
+''	O
+Avec	O
+*OOV*	O
+*OOV*	O
+''	O
+'	O
+
+Les	O
+rencontres	O
+se	O
+jouent	O
+en	O
+matchs	O
+aller	O
+*OOV*	O
+aux	O
+*OOV*	O
+.	O
+
+Preston	O
+North	I-ORG
+*OOV*	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+'	O
+''	O
+Championnat	B-ORG
+*OOV*	I-ORG
+D2	O
+''	O
+'	O
+(	O
+'	O
+''	O
+6	O
+''	O
+'	O
+)	O
+
+'	O
+''	O
+Marco	O
+Melandri	O
+''	O
+'	O
+
+*OOV*	O
+(	O
+saisons	O
+1	O
+*OOV*	O
+5	O
+)	O
+
+*OOV*	O
+circonscription	I-LOC
+des	I-LOC
+Hauts-de-Seine	I-LOC
+
+Cour	O
+*OOV*	I-ORG
+(	O
+*OOV*	I-ORG
+de	I-ORG
+Paris	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Roberto	O
+Rolfo	O
+''	O
+'	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+La	O
+*OOV*	O
+(	O
+partido	O
+)	O
+
+*OOV*	O
+II	I-ORG
+de	I-ORG
+Hongrie	I-ORG
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+du	I-LOC
+Gers	I-LOC
+
+REDIRECTION	O
+Liste	B-LOC
+des	I-LOC
+*OOV*	I-LOC
+de	I-LOC
+la	I-LOC
+*OOV*	I-LOC
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+Honda	O
+''	O
+'	O
+
+Il	O
+rentre	O
+au	O
+Club	O
+des	O
+*OOV*	O
+.	O
+
+Henry	O
+*OOV*	O
+(	O
+8	O
+)	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+*OOV*	I-LOC
+
+Jules	O
+Romains	O
+(	O
+*OOV*	O
+)	O
+
+The	B-ORG
+Truth	I-ORG
+About	I-ORG
+Love	O
+''	O
+
+Sur	O
+les	O
+8	O
+rencontres	O
+*OOV*	O
+seul	O
+Le	O
+Havre	O
+s'est	O
+*OOV*	O
+*OOV*	O
+domicile	O
+face	O
+*OOV*	O
+Nancy	O
+(	O
+*OOV*	O
+)	O
+.	O
+
+Parti	B-ORG
+socialiste	I-ORG
+de	I-ORG
+Serbie	I-ORG
+-	I-ORG
+Parti	I-ORG
+des	I-ORG
+*OOV*	I-ORG
+unis	I-ORG
+de	I-ORG
+Serbie	I-ORG
+-	I-ORG
+Serbie	I-ORG
+unie	I-ORG
+
+Mathieu	O
+*OOV*	O
+''	O
+(	O
+*OOV*	O
+)	O
+''	O
+
+Karl	O
+Friedrich	I-PER
+von	I-PER
+*OOV*	O
+
+Hugh	O
+Laurie	O
+,	O
+*OOV*	O
+est	O
+sous	O
+*OOV*	O
+''	O
+,	O
+*OOV*	O
+.	O
+
+'	O
+''	O
+Jim	O
+Clark	O
+''	O
+'	O
+
+'	O
+''	O
+Bulldogs	O
+de	I-ORG
+Mississippi	I-ORG
+State	O
+''	O
+'	O
+(	O
+*OOV*	O
+)	O
+
+'	O
+''	O
+*OOV*	O
+Hambourg	O
+''	O
+'	O
+
+*OOV*	O
+de	I-ORG
+La	O
+Grave	I-ORG
+
+**	O
+Benjamin	O
+Constant	O
+est	O
+*OOV*	O
+*OOV*	O
+Strasbourg	O
+.	O
+
+La	O
+*OOV*	O
+*OOV*	O
+par	O
+*OOV*	O
+du	I-ORG
+Nord	I-LOC
+,	O
+Europe	O
+,	O
+et	O
+Asie	O
+.	O
+
+**	O
+Champion	O
+d'Islande	I-ORG
+en	O
+2014	I-ORG
+
+*OOV*	O
+du	I-ORG
+pays	I-ORG
+de	I-ORG
+Galles	I-ORG
+
+*PR	O
+=	O
+Parti	B-ORG
+*OOV*	I-ORG
+du	I-ORG
+Canada	I-ORG
+
+*OOV*	O
+est	O
+tout	O
+*OOV*	O
+*OOV*	O
+dans	O
+les	O
+deux	O
+pays	O
+,	O
+notamment	O
+en	O
+Moravie	O
+.	O
+
+A	O
+Jeff	O
+O'Neill	O
+,	O
+Hurricanes	O
+de	I-LOC
+la	I-LOC
+Caroline	I-LOC
+
+(	O
+Castres	O
+,	O
+*OOV*	O
+)	O
+
+Bureau	O
+*OOV*	O
+sur	O
+les	O
+*OOV*	O
+de	I-ORG
+mer	I-ORG
+
+'	O
+''	O
+Gianluigi	O
+Scalvini	O
+''	O
+'	O
+
+''	O
+'	O
+''	O
+'	O
+-	O
+*OOV*	O
+*OOV*	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Haute-Garonne	I-LOC
+
+REDIRECTION	O
+*OOV*	O
+Ier	O
+du	I-ORG
+Saint-Empire	I-LOC
+
+'	O
+''	O
+*OOV*	O
+Del	O
+*OOV*	O
+''	O
+'	O
+
+Avenir	O
+*OOV*	O
+(	O
+A	O
+)	O
+
+Le	O
+,	O
+le	O
+pape	O
+*OOV*	O
+se	O
+*OOV*	O
+pour	O
+le	O
+*OOV*	O
+des	O
+femmes	O
+.	O
+
+Championnat	B-ORG
+du	I-ORG
+monde	I-ORG
+moins	I-ORG
+de	I-ORG
+18	O
+ans	O
+*OOV*	O
+
+'	O
+''	O
+Alex	O
+de	I-PER
+Angelis	O
+''	O
+'	O
+
+'	O
+''	O
+Todd	O
+*OOV*	O
+''	O
+'	O
+
+Ajax	O
+*OOV*	I-ORG
+Town	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+*OOV*	O
+''	O
+(	O
+2004	O
+)	O
+
+Samuel	O
+Thomas	I-PER
+von	I-PER
+*OOV*	O
+
+2	O
+*OOV*	O
+(	O
+chanson	I-ORG
+de	I-ORG
+*OOV*	O
+)	O
+
+*OOV*	O
+a	O
+*OOV*	O
+trois	O
+fois	O
+la	O
+Superliga	O
+.	O
+
+*OOV*	O
+(	O
+basket-ball	O
+)	O
+
+Ce	O
+quartier	O
+*OOV*	O
+en	O
+effet	O
+plusieurs	O
+sources	O
+.	O
+
+*OOV*	O
+*OOV*	O
+''	O
+par	O
+M.	O
+John	I-PER
+Harrison	I-PER
+
+'	O
+''	O
+Chris	O
+*OOV*	I-PER
+Billie	I-PER
+Jean	I-PER
+King	O
+''	O
+'	O
+
+'	O
+''	O
+Severin	O
+Freund	O
+''	O
+'	O
+
+Il	O
+joua	O
+cette	O
+*OOV*	O
+saison	O
+*OOV*	O
+avec	O
+les	O
+*OOV*	O
+du	I-ORG
+Texas	O
+dans	O
+la	O
+*OOV*	O
+.	O
+
+'	O
+''	O
+*OOV*	O
+John	B-PER
+Robinson	O
+''	O
+'	O
+
+'	O
+''	O
+Stefano	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+Christine	O
+*OOV*	O
+''	O
+'	O
+
+*OOV*	O
+*OOV*	O
+est	O
+non	O
+seulement	O
+*OOV*	O
+par	O
+Pink	O
+Floyd	O
+,	O
+mais	O
+elle	O
+rend	O
+hommage	O
+au	O
+groupe	O
+.	O
+
+===	O
+*OOV*	O
+du	I-LOC
+Sud	I-LOC
+===	O
+
+Champion	O
+olympique	I-ORG
+aux	I-ORG
+Jeux	I-ORG
+de	I-ORG
+Londres	I-ORG
+1908	I-ORG
+et	I-ORG
+aux	I-ORG
+Jeux	I-ORG
+de	I-ORG
+Stockholm	I-ORG
+1912	O
+.	O
+
+*OOV*	O
+*OOV*	O
+*OOV*	O
+,	O
+il	O
+s'impose	O
+sans	O
+la	O
+moindre	O
+*OOV*	O
+(	O
+6-3	O
+,	O
+6-2	O
+)	O
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+*OOV*	I-LOC
+
+Son	O
+fils	O
+Sanche	O
+III	I-PER
+lui	O
+*OOV*	O
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+*OOV*	I-LOC
+
+REDIRECTION	O
+Georg	O
+von	I-PER
+*OOV*	O
+
+'	O
+''	O
+Mike	O
+Di	I-PER
+*OOV*	O
+''	O
+'	O
+
+The	B-ORG
+*OOV*	I-ORG
+Boys	I-ORG
+of	I-ORG
+Alabama	I-ORG
+
+Elle	O
+pourrait	O
+*OOV*	O
+*OOV*	O
+au	O
+Mozambique	O
+.	O
+
+*OOV*	O
+(	O
+Manche	I-LOC
+)	O
+
+REDIRECTION	O
+*OOV*	O
+de	I-LOC
+l'Ouest	I-LOC
+(	O
+Cameroun	O
+)	O
+
+If	O
+I	I-ORG
+*OOV*	O
+a	O
+Boy	O
+
+'	O
+''	O
+Bruno	O
+*OOV*	O
+''	O
+'	O
+
+Saison	O
+3	I-ORG
+de	I-ORG
+Lost	I-ORG
+:	I-ORG
+Les	I-ORG
+Disparus	I-ORG
+
+*OOV*	O
+*OOV*	O
+(	O
+1	O
+/	O
+3	O
+)	O
+
+C'est	O
+actuellement	O
+*OOV*	O
+le	O
+plus	O
+important	O
+*OOV*	O
+en	O
+Islande	O
+.	O
+
+'	O
+''	O
+1.	O
+FC	I-ORG
+*OOV*	O
+05	O
+''	O
+'	O
+
+*OOV*	O
+communes	I-LOC
+(	O
+52	O
+%	O
+)	O
+*OOV*	O
+comptent	O
+aucune	O
+.	O
+
+'	O
+''	O
+1	O
+/	O
+2	O
+finale	O
+''	O
+'	O
+*OOV*	O
+Reinach	O
+
+*OOV*	O
+(	O
+M	O
+/	O
+F	O
+)	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+Van	O
+*OOV*	O
+(	O
+Californie	O
+)	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+*OOV*	O
+des	I-ORG
+beaux-arts	I-ORG
+de	I-ORG
+Gand	I-ORG
+
+REDIRECTION	O
+Occupation	O
+de	I-LOC
+la	I-LOC
+France	I-LOC
+par	O
+l'Allemagne	O
+
+*OOV*	O
+*OOV*	O
+Jamal	O
+4	O
+min	O
+19	O
+s	O
+42	O
+
+*OOV*	O
+de	I-ORG
+'	O
+Liuzzi	O
+
+Bangladesh	O
+*OOV*	O
+650	O
+000	O
+
+Chris	B-PER
+*OOV*	O
+(	O
+)	O
+
+'	O
+''	O
+Raymond	O
+Sommer	O
+''	O
+'	O
+
+REDIRECTION	O
+*OOV*	O
+(	O
+pays	O
+de	I-ORG
+Galles	I-ORG
+)	O
+
+Big	O
+Boss	O
+(	O
+alias	O
+*OOV*	O
+''	O
+)	O
+
+'	O
+''	O
+*OOV*	O
+Municipal	O
+''	O
+'	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+*OOV*	I-LOC
+
+Il	O
+est	O
+*OOV*	O
+par	O
+Eric	O
+*OOV*	O
+.	O
+
+'	O
+''	O
+Victoire	O
+''	O
+'	O
+*OOV*	O
+*OOV*	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+*OOV*	I-LOC
+
+Maison	O
+de	I-ORG
+la	I-ORG
+*OOV*	O
+et	O
+de	I-ORG
+*OOV*	I-ORG
+
+Il	O
+a	O
+*OOV*	O
+avec	O
+d'autres	O
+artistes	O
+internationaux	O
+tels	O
+que	O
+*OOV*	O
+,	O
+Peter	O
+Gabriel	O
+,	O
+Tom	O
+Jones	I-PER
+,	O
+Paul	B-PER
+McCartney	I-PER
+,	O
+Mike	O
+*OOV*	O
+,	O
+Michel	O
+*OOV*	O
+,	O
+Van	O
+*OOV*	I-PER
+
+Championnat	B-ORG
+du	I-ORG
+Venezuela	I-ORG
+de	I-ORG
+football	I-ORG
+
+**	O
+Tournoi	O
+*OOV*	I-ORG
+2009	I-ORG
+du	I-ORG
+Paraguay	I-ORG
+
+la	O
+'	O
+''	O
+*OOV*	O
+du	I-ORG
+*OOV*	O
+''	O
+'	O
+en	O
+*OOV*	O
+;	O
+
+Durant	O
+cette	O
+*OOV*	O
+,	O
+le	O
+groupe	O
+s'est	O
+produit	O
+en	O
+Europe	O
+,	O
+en	O
+*OOV*	O
+du	I-ORG
+Nord	O
+,	O
+en	O
+*OOV*	O
+,	O
+au	O
+Japon	O
+ainsi	O
+qu'en	O
+*OOV*	O
+du	I-ORG
+Sud	I-LOC
+.	O
+
+'	O
+''	O
+CF	O
+Atlante	O
+''	O
+'	O
+''	O
+*OOV*	O
+*OOV*	O
+''	O
+'	O
+
+*OOV*	O
+en	O
+Italie	O
+pendant	O
+la	O
+Seconde	I-ORG
+Guerre	I-ORG
+mondiale	I-ORG
+
+Le	O
+Blanc	O
+(	O
+1	O
+)	O
+
+Conseil	B-ORG
+*OOV*	I-ORG
+de	I-ORG
+Brabant	I-ORG
+
+Parc	O
+naturel	I-ORG
+*OOV*	I-ORG
+de	I-ORG
+la	O
+*OOV*	O
+.	O
+
+After	O
+*OOV*	O
+at	I-ORG
+*OOV*	O
+'s	O
+''	O
+-	O
+Jefferson	O
+*OOV*	O
+17	O
+E-U	O
+
+'	O
+''	O
+Avenir	O
+sportif	I-ORG
+de	I-ORG
+*OOV*	O
+'	O
+''	O
+
+'	O
+''	O
+Lady	O
+*OOV*	O
+-	O
+*OOV*	O
+This	O
+Way	O
+''	O
+'	O
+''	O
+
+'	O
+''	O
+Club	O
+*OOV*	O
+*OOV*	O
+''	O
+'	O
+
+San	O
+Felipe	I-LOC
+(	O
+Texas	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Michaela	O
+Dorfmeister	O
+''	O
+'	O
+
+Antoine	O
+*OOV*	O
+(	O
+2	O
+)	O
+
+REDIRECTION	O
+*OOV*	O
+d'histoire	I-ORG
+de	I-ORG
+l'art	I-ORG
+de	I-ORG
+Vienne	I-ORG
+
+==	O
+Tournoi	O
+des	I-ORG
+Jeux	I-ORG
+olympiques	I-ORG
+de	I-ORG
+1980	I-ORG
+==	O
+
+'	O
+''	O
+Louis	B-PER
+*OOV*	O
+''	O
+'	O
+
+Union	B-ORG
+*OOV*	I-ORG
+du	I-ORG
+travail	I-ORG
+
+Francis	O
+Fitzgerald	I-PER
+*OOV*	O
+Chamberlain	I-PER
+
+'	O
+''	O
+Finale	O
+''	O
+'	O
+Henry	O
+Austin	I-PER
+
+*OOV*	O
+''	O
+'	O
+,	O
+ville	O
+(	O
+)	O
+
+REDIRECTION	O
+DJ	O
+*OOV*	I-ORG
+Jeff	I-ORG
+and	I-ORG
+The	I-ORG
+*OOV*	I-ORG
+Prince	I-ORG
+
+Elle	O
+pose	O
+pour	O
+*OOV*	O
+''	O
+,	O
+*OOV*	O
+''	O
+et	O
+devient	O
+*OOV*	O
+''	O
+pour	O
+Playboy	O
+.	O
+
+'	O
+''	O
+Championnat	B-ORG
+d'Italie	I-ORG
+de	I-ORG
+football	O
+''	O
+'	O
+
+'	O
+''	O
+*OOV*	O
+(	O
+*OOV*	O
+)	O
+-	O
+4	O
+candidats	O
+''	O
+'	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+Toulouse	B-LOC
+
+Une	O
+famille	I-ORG
+du	I-ORG
+*OOV*	O
+''	O
+
+'	O
+''	O
+*OOV*	O
+den	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+''	O
+
+Union	B-ORG
+pour	O
+un	O
+mouvement	I-ORG
+populaire	I-ORG
+
+*OOV*	O
+*OOV*	O
+*OOV*	O
+la	O
+ville	O
+'	O
+''	O
+'	O
+ou	O
+'	O
+''	O
+'	O
+.	O
+
+Marcus	O
+*OOV*	O
+(	O
+consul	O
+en	O
+*OOV*	O
+)	O
+
+*OOV*	O
+(	O
+)	O
+;	O
+
+'	O
+''	O
+Royaume-Uni	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+'	O
+''	O
+*OOV*	O
+''	O
+'	O
+
+REDIRECTION	O
+*OOV*	O
+(	O
+Pays-Bas	O
+)	O
+
+REDIRECTION	O
+Eddie	O
+Jones	I-ORG
+(	O
+rugby	O
+*OOV*	O
+XV	I-ORG
+)	O
+
+En	O
+finale	O
+,	O
+elle	O
+bat	O
+*OOV*	O
+*OOV*	O
+.	O
+
+*OOV*	O
+de	I-ORG
+la	O
+Royal	I-ORG
+Society	I-ORG
+
