@@ -1,4 +1,4 @@
-# MachineLearningMiniProjects
+# MachineLearningProjects
 
 This repo contains all the projects that were done as part of the machine learning courses at CMU.
 Only the basic libraries such as NumPy, Math, Random have been used. 
